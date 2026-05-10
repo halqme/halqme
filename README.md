@@ -1,4 +1,4 @@
 
 major in psychology.
 
-[Portfolio](https://halqme.pages.dev) | [Zenn](https://zenn.dev/hal227)
+[Portfolio (www.0w0.foo)](https://www.0w0.foo) | [Zenn (hal227)](https://zenn.dev/hal227)
